@@ -2,12 +2,12 @@
 
 ## Technologies
 
-React Native Element library is used for ready components.
-React-native-svg and react-native-svg-charts are used for dynamic charts.
-AsyncStorage for persistent local storage.
-Dotenv for environmental variables while developing.
-React navigation for tabs navigation.
-react-native-picker for picker component.
+React Native Element library is used for ready components. <br>
+React-native-svg and react-native-svg-charts are used for dynamic charts. <br>
+AsyncStorage for persistent local storage. <br>
+Dotenv for environmental variables while developing. <br>
+React navigation for tabs navigation. <br>
+react-native-picker for picker component. <br>
 
 ## How to use
 
