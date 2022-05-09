@@ -1,19 +1,20 @@
-React Native Elements Template
+#Finance-App
 
-### Usage
+## Technologies
 
-#### Stable
+React Native Element library is used for ready components.
+React-native-svg and react-native-svg-charts are used for dynamic charts.
+AsyncStorage for persistent local storage.
+Dotenv for environmental variables while developing.
+React navigation for tabs navigation.
+react-native-picker for picker component.
 
-        expo init app --template @rneui/template
+## How to use
 
-#### Stable Typescript
+First add a category that you want to keep track of.
 
-        expo init app --template @rneui/template@typescript
+After that you can add transactions to that category.
 
-#### Bleeding Edge
+You can use the tab navigation to check your statistics on the stats screen.
 
-        expo init app --template @rneui/template@bleeding-edge
-
-#### Bleeding Edge Typescript
-
-        expo init app --template @rneui/template@bleeding-edge-typescript
+Transactions can be deleted by swiping.
